@@ -11,8 +11,8 @@ function App() {
     <div className='Application'>
       <Header/>
         <div className='SideContent'>
-          <SideBar/>
-          <ContentPage/>
+          <SideBar></SideBar>
+          <ContentPage></ContentPage>
         </div>
       <Footer/>
      

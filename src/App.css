@@ -23,7 +23,7 @@
 
 .SideContent {
   flex: 100%;
-    
+  display: flex;    
 }
 
 

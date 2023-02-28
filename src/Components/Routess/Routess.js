@@ -4,6 +4,7 @@ import Chatgpt from '../../Components2/Chatgpt'
 import Creativecommons from '../../Components2/Creativecommons'
 import Oercommons from '../../Components2/Oercommons'
 import Pressbooks from '../../Components2/Pressbooks'
+import Home from '../../Components2/Home'
 
 export default function Routess() {
   return (
