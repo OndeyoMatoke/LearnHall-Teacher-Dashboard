@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Footer() {
   return (
@@ -10,11 +11,11 @@ export default function Footer() {
       </div>
 
       <div>
-        <p>Privacy Policy</p>
+        <Link to="https://www.google.com/" target={'_blank'}>Privacy Policy</Link>
       </div>
 
       <div>
-        <p>Terms of Use</p>
+        <Link to="https://www.google.com/" target={'_blank'} >Terms of Use</Link>
       </div>
     </div>
   )

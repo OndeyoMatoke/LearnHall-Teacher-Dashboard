@@ -15,7 +15,7 @@ export default function Header() {
         <h2>Teacher Dashboard</h2>
       </div>
 
-      <div>
+      <div className='icons'>
          <FiMessageSquare style={{fontSize:30}}/>
          <FaBell style={{fontSize:30}}/>       
       </div>
