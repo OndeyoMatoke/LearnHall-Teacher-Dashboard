@@ -24,3 +24,17 @@
 .SideContent {
   flex: 100%;
 }
+
+
+.SideBar {
+  margin: 0;
+   
+}
+
+.SideBar ul {
+  list-style: none;
+}
+
+.SideBar li a {
+  text-decoration: none;   
+}

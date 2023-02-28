@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export default function SideBar() {
   return (
     <div>
-      <nav>
+      <nav className='SideBar'>
         <ul>
             <li>
                 <Link to="/">Home</Link>
