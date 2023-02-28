@@ -23,18 +23,18 @@
 
 .SideContent {
   flex: 100%;
+    
 }
 
-
-.SideBar {
-  margin: 0;
-   
-}
 
 .SideBar ul {
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  
 }
 
 .SideBar li a {
   text-decoration: none;   
+  color: black;    
 }
